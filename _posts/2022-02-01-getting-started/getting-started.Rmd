@@ -1,0 +1,36 @@
+---
+title: "Getting started"
+description: |
+  A short description of the post.
+author:
+  - name: Lucio Cornejo
+    # url: {}
+preview: music-black-hole.jpg 
+# fractal.gif
+# music-black-hole.jpg 
+# https://rstudio.github.io/distill/images/javascript-d3-preview.png
+date: 2022-02-01
+categories: ["introduction"]
+output:
+  distill::distill_article:
+    self_contained: false
+    code_folding: true
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## section 1
+
+### section 1.2
+
+lorem ipsum
+
+## section 2
+
+```{r, preview = FALSE}
+plot(pressure)
+```
+

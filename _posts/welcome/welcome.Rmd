@@ -1,14 +1,15 @@
 ---
 title: "Welcome to Mathematical Music Theory"
 description: |
-  Welcome to our new blog, Mathematical Music Theory. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my Mathematical Music Theory blog,
+  a place where we explore some of the connections
+  between Math and music.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 02-01-2022
+  - name: Lucio Cornejo
+    # url: https://example.com/norajones
+    affiliation: PUCP
+    affiliation_url: https://www.pucp.edu.pe/carrera/matematicas/
+date: 01-31-2022
 output:
   distill::distill_article:
     self_contained: false

@@ -1,19 +1,38 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Mathematical Music Theory",
-    "description": "Welcome to our new blog, Mathematical Music Theory. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2022-02-01-getting-started/",
+    "title": "Getting started",
+    "description": "A short description of the post.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Lucio Cornejo",
+        "url": {}
       }
     ],
     "date": "2022-02-01",
+    "categories": [
+      "introduction"
+    ],
+    "contents": "\r\nsection 1\r\nsection 1.2\r\nlorem ipsum\r\nsection 2\r\n\r\n\r\nShow code\r\n\r\nplot(pressure)\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-02-01-getting-started/music-black-hole.jpg",
+    "last_modified": "2022-02-01T11:10:10-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Mathematical Music Theory",
+    "description": "Welcome to my Mathematical Music Theory blog,\na place where we explore some of the connections\nbetween Math and music.",
+    "author": [
+      {
+        "name": "Lucio Cornejo",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-31",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-02-01T09:29:25-05:00",
+    "last_modified": "2022-02-01T10:33:11-05:00",
     "input_file": {}
   }
 ]

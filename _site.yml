@@ -9,4 +9,13 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-output: distill::distill_article
+base_url: https://mathematical-music-theory-blog.netlify.app/
+collections:
+  posts:
+    disqus: 
+      shortname: comentarios
+      hidden: true
+    share: [twitter, linkedin, facebook, google-plus, pinterest]
+output: 
+  distill::distill_article:
+    css: theme.css

@@ -1,0 +1,6 @@
+.sidebar-section.categories > ul > li:first-child {
+  display: none;
+}
+
+/* Hide ads in comment section */
+#disqus_recommendations { display: none; }
